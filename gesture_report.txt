@@ -1,7 +1,7 @@
 Gesture recognition report (letter 'X')
 ========================================
-Total frames: 234
-Average FPS: 17.14
-Average ratio: 0.07
-Average similarity: 10.87%
-Gesture counts: {'No Hand': 208, 'Not X': 18, 'X': 8}
+Total frames: 5383
+Average FPS: 27.36
+Average ratio: 0.42
+Average similarity: 43.57%
+Gesture counts: {'No Hand': 2246, 'Not X': 1855, 'X': 1282}
